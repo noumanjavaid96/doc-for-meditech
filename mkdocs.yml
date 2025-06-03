@@ -1,0 +1,17 @@
+site_name: 'RecipeHub Documentation'
+theme:
+  name: material
+nav:
+  - 'Home': 'index.md'
+  - 'Project Overview': 'project_understanding.md'
+  - 'Features':
+    - 'Overview': 'features/index.md'
+    - 'Chatbot': 'features/chatbot.md'
+    - 'Doctor-Patient Module': 'features/doctor_patient_module.md'
+    - 'PDF Upload & OCR': 'features/pdf_upload_ocr.md'
+  - 'Development':
+    - 'Methodology': 'methodology.md'
+    - 'Timeline': 'timeline.md'
+    - 'Constraints': 'constraints.md'
+    - 'Line Items': 'line_items.md'
+    - 'Next Steps': 'next_steps.md'
